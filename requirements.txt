@@ -1,0 +1,11 @@
+numpy
+pandas
+opencv-python
+matplotlib
+imageio
+tensorflow
+mediapipe
+scikit-learn
+notebook
+tensorflow-hub   
+tensorflow-addons

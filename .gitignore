@@ -1,0 +1,30 @@
+# Virtual environments
+venv/
+.venv/
+env/
+*/env/
+*/venv/
+dl_env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# Extracted visualization outputs (optional)
+*.gif
